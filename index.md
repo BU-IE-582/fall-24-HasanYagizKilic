@@ -1,4 +1,5 @@
-[Link to my journal](https://bu-ie-582.github.io/fall-24-HasanYagizKilic/)
+[Link to my journal](https://github.com/BU-IE-582/fall-24-/HasanYagizKilic)
+
 
 ```markdown
 Welcome to my Progress Journal 
